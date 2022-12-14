@@ -1,0 +1,3 @@
+[submodule "econ-reads/mundana-theme-jekyll"]
+	path = econ-reads/mundana-theme-jekyll
+	url = https://github.com/wowthemesnet/mundana-theme-jekyll.git
